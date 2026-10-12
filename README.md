@@ -25,6 +25,8 @@ Tablero para que el equipo de soporte de una oficina gestione los problemas que 
 
 ## 🚀 Cómo correrlo
 
+> Este proyecto no tiene demo en linea porque necesita la API de json-server corriendo en el computador, pero se levanta en un minuto con estos pasos.
+
 Necesitas [Node.js](https://nodejs.org/es/download). En la carpeta del proyecto:
 
 ```bash
